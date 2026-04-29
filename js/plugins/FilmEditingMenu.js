@@ -1,12 +1,12 @@
 /*:
  * @target MZ
  * @plugindesc Menu Główne stylizowane na stół montażowy z taśmą filmową.
- * @author ClaudeAI
+ * @author Adam
  *
  * @param gameTitle
  * @text Tytuł gry
  * @type string
- * @default Untitled Project
+ * @default 13 Klatka
  *
  * @param subtitle
  * @text Podtytuł
@@ -94,7 +94,7 @@
     const p = PluginManager.parameters(PLUGIN_NAME);
 
     const CFG = {
-        gameTitle:    String(p.gameTitle    || 'Untitled Project'),
+        gameTitle:    String(p.gameTitle    || '13 Klatka'),
         subtitle:     String(p.subtitle     || 'editing suite · main timeline'),
         newGameText:  String(p.newGameText  || 'Nowa Gra'),
         continueText: String(p.continueText || 'Wczytaj'),
