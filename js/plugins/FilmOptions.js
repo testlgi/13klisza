@@ -1,7 +1,7 @@
 /*:
  * @target MZ
  * @plugindesc Ekran Opcji stylizowany na stół montażowy - opcje jako kawałki taśmy.
- * @author ClaudeAI
+ * @author Adam
  *
  * @param colorAmber
  * @text Kolor akcentu (hex)

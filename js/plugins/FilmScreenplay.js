@@ -1,7 +1,7 @@
 /*:
  * @target MZ
  * @plugindesc Okno dialogów w stylu skryptu scenariusza z adnotacjami reżyserskimi.
- * @author ClaudeAI
+ * @author Adam
  *
  * @param colorPaper
  * @text Kolor papieru (tło)

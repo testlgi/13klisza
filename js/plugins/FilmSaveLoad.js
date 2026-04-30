@@ -1,7 +1,7 @@
 /*:
  * @target MZ
  * @plugindesc Ekran Wczytaj/Zapisz stylizowany na stół montażowy.
- * @author ClaudeAI
+ * @author Adam
  *
  * @param maxSlots
  * @text Liczba slotów zapisu
