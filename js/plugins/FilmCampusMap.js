@@ -1,7 +1,7 @@
 /*:
  * @target MZ
  * @plugindesc Mapa kampusu jako szkic architektoniczny poplamiony kawą. Placeholder.
- * @author ClaudeAI
+ * @author Adam
  *
  * @param mapTitle
  * @text Tytuł mapy
